@@ -14,4 +14,4 @@ if a>=b:
     print("a is greather than or equal to b")
 
 if a<=b:
-    print("a is less than or equal to b")
+    print("a is less than or equal to b") 
