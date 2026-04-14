@@ -1,0 +1,14 @@
+x=5
+x+=4
+print(x)
+x-=4
+print(x)
+x*=4
+print(x)
+x/=4
+print(x)
+x%=2
+print(x)
+x+=30
+x//=4
+print(x)

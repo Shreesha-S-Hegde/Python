@@ -1,0 +1,5 @@
+a=int(input("Enter a number"))
+b=int(input("Enter another number"))
+print(a>3 and b<5)
+print(a>3 or b<5)
+print(not(a>3 and b<5))
